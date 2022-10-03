@@ -56,4 +56,4 @@ IAC tool that lets you build, change, and version cloud resouces safely and effi
 
 >I have created multiple terrform environments for AWS and GCP.
 
-Terraform allows you to manage infrastructure over multiple cloud platofrms, and track resourse changes throughout your deployment.
+Terraform allows you to manage infrastructure over multiple cloud platforms, and track resourse changes throughout your deployment.
